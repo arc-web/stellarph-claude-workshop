@@ -100,6 +100,56 @@ The repo should be a complete picture - someone who wasn't in the room should be
 
 ---
 
+## Step 4 - You Have Your Idea. Do This Right Now.
+
+The moment your pod agrees on a problem, stop talking and do these five things in order. This is the bridge from "we have an idea" to "we're building."
+
+### 1. Fill in notes.md right now
+
+Don't wait. Open your `notes.md` and write the three lines from Step 2:
+- The problem in one sentence
+- What the solution does
+- How you'll show it works
+
+If you don't write it now, you'll spend time later trying to remember what you agreed on.
+
+### 2. Update your pod README
+
+Find the line in your `README.md` that says "What We're Building" and fill it in. One sentence. Plain English. This is what Pjotr sees when he opens your repo at the end.
+
+### 3. Tell Claude Code your idea
+
+Open Claude Code and paste this:
+
+```
+Our pod is building [describe what you're making] for [who it helps].
+We have about [X] hours left. What's the single first thing we should build
+to have something working to demo?
+```
+
+Claude Code will read your CLAUDE.md file and know your team's context. Give it the idea and let it help you start.
+
+### 4. Lock in who does what
+
+Go around the table right now and confirm who has each role. Say it out loud:
+
+| Role | Name |
+|------|------|
+| Builder - runs Claude Code, builds the thing | |
+| Prompter - writes and tests the prompts | |
+| Documenter - keeps notes.md updated as you go | |
+| Presenter - owns the demo at the end | |
+
+One person can hold two roles if your pod is small.
+
+### 5. Set a 30-minute checkpoint
+
+Look at the clock right now. Add 30 minutes. That's your first checkpoint.
+
+By then you need something - anything - that actually runs. It doesn't have to be good. It just has to work. If you don't have something working in 30 minutes, your idea is too big and you need to cut it down.
+
+---
+
 ## The Presentation
 
 At the end, each pod gets a few minutes. Structure it like this:

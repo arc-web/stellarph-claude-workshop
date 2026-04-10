@@ -76,7 +76,7 @@
 
 ## Before You Do Anything Else
 
-> **1.** Join the Discord: https://discord.gg/g2pJzjmV - find your Pod channel (A through E)
+> **1.** Join the Discord: https://discord.gg/g2pJzjmV - find your Pod channel (A through D)
 >
 > **2.** Get Claude: https://claude.ai - sign up if you haven't
 >
