@@ -144,6 +144,16 @@
 <td><a href="guides/tools.md"><strong>All Tools</strong></a></td>
 <td>Every tool for today with descriptions, links, and a decision guide</td>
 </tr>
+<tr>
+<td align="center">🚀</td>
+<td><a href="guides/pod-kickoff.md"><strong>Pod Kickoff Guide</strong></a></td>
+<td>How to pick your problem, define it, divide the work, and structure your repo</td>
+</tr>
+<tr>
+<td align="center">📁</td>
+<td><a href="guides/using-your-repo.md"><strong>Using Your Repo</strong></a></td>
+<td>How to commit work, pull updates, and collaborate without stepping on each other</td>
+</tr>
 </table>
 
 ---
