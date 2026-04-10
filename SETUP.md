@@ -1,174 +1,84 @@
 # Setup Guide
 
-Follow these steps in order. Takes about 10 minutes. You only need to do this once.
+**Goal: Get Claude Code running on your computer before Pjotr kicks off the session.**
 
-If you get stuck at any point, drop a message in your Pod channel on Discord and someone will help.
-
----
-
-## Step 1 - Get Claude in Your Browser
-
-This is the easiest one. Just open a tab.
-
-Go to **https://claude.ai** and create a free account if you don't have one yet.
-
-That's it. Keep that tab open — you'll use it throughout the day.
+This should take about 10 minutes. You don't need to be technical. Just follow each step, and if you get stuck — ask someone in your pod first, then raise your hand.
 
 ---
 
-## Step 2 - Download Claude Desktop
+## Step 1 - Create a Claude Account
 
-Claude Desktop is the same as the browser version, but it lives on your computer so it's always one click away.
+Go to **https://claude.ai** and sign up for a free account.
 
-1. Go to **https://claude.ai/download**
-2. Download the version for your computer (Mac or Windows)
-3. Open the downloaded file and install it like any normal app
-4. Sign in with the same account you just made
+Already have one? Great, sign in and move to Step 2.
 
-You now have Claude on your computer. Nice.
+> ✋ **Raise your hand when you're signed in to claude.ai**
 
 ---
 
-## Step 3 - Open Your Terminal
+## Step 2 - Get Your Pod API Key
 
-The terminal is just a text window where you type commands to your computer. It sounds scary, it isn't.
-
-**On Mac:**
-- Press `Command + Space` to open Spotlight
-- Type `Terminal` and press Enter
-- A black or white window opens — that's it, you're in
-
-**On Windows:**
-- Press `Windows key + R`
-- Type `cmd` and press Enter
-- Or search for `Windows Terminal` in the Start menu
-
-Keep this window open. You'll use it in the next steps.
-
----
-
-## Step 4 - Get Your Pod API Key
-
-Before you install anything, grab your API key. Think of it like a key that unlocks Claude Code for your pod today.
+Your pod has an API key — think of it as a pass that unlocks Claude Code for today.
 
 1. Open Discord: **https://discord.gg/g2pJzjmV**
-2. Find your Pod channel (Pod A, Pod B, Pod C, Pod D, or Pod E)
-3. Your API key will be pinned there — it starts with `sk-ant-`
-4. Copy it and keep it handy
+2. Go to your Pod channel (Pod A, B, C, D, or E)
+3. Find the pinned message — your API key starts with `sk-ant-`
+4. Copy it
+
+> ✋ **Raise your hand when you have your API key copied**
 
 ---
 
-## Step 5 - Install Claude Code
+## Step 3 - Let Claude Walk You Through the Rest
 
-Claude Code is Claude inside your terminal. You type to it in plain English and it helps you build things.
+This is the easy part. Instead of following a long technical guide, you're going to paste one message into Claude and let it guide you through setup — step by step, for your exact computer.
 
-In your terminal, paste this and press Enter:
+**Open a new chat on claude.ai and paste this exactly:**
 
-**Mac / Linux:**
 ```
-curl -fsSL https://claude.ai/install.sh | bash
+I'm at the StellarPH x KMC Claude AI Workshop in Cebu today. I need help getting Claude Code set up on my computer. Claude Code is Anthropic's tool that lets you use Claude inside your terminal.
+
+Workshop repo for context: https://github.com/arc-web/stellarph-claude-workshop
+
+Please:
+1. First ask me what type of computer I have (Mac, Windows, or Linux) and what version
+2. Walk me through the full setup one step at a time — wait for me to confirm each step is done before moving on
+3. My pod API key starts with sk-ant- and I have it ready to give you when you need it
+4. If I hit an error, help me troubleshoot it before moving on
+5. Let me know when I'm done and ready to go
+
+Let's start — what computer do I have?
 ```
 
-**Windows** (in Windows Terminal or PowerShell):
-```
-winget install Anthropic.ClaudeCode
-```
+Claude will ask what kind of computer you have, then give you the exact steps for your machine.
 
-You'll see some text scroll by — that's normal. Wait for it to finish.
+> ✋ **Raise your hand when Claude responds and asks about your computer**
 
 ---
 
-## Step 6 - Add Your API Key
+## Step 4 - Follow Claude's Instructions
 
-Before you start Claude Code, tell your terminal about your pod's API key. This is a one-time step.
+Just do what Claude tells you, one step at a time. Confirm each step before moving on.
 
-**Mac / Linux** — paste this into your terminal, replacing `YOUR-KEY-HERE` with the key you copied from Discord:
-```
-export ANTHROPIC_API_KEY=YOUR-KEY-HERE
-```
+**If you get stuck:**
+- First ask the person next to you in your pod
+- If they can't help, raise your hand and a facilitator will come to you
 
-**Windows** — paste this, replacing `YOUR-KEY-HERE`:
-```
-set ANTHROPIC_API_KEY=YOUR-KEY-HERE
-```
+**You'll know you're done when:**
+You see a `>` prompt in your terminal after typing `claude` — that means Claude Code is running and you're ready.
 
-Press Enter. Nothing dramatic happens — that's fine, it worked.
+> ✋ **Raise your hand when Claude Code is running in your terminal — this is the signal that you're all set**
 
 ---
 
-## Step 7 - Load the Workshop Repo
+## Terminal Shortcuts (for later)
 
-This repo has workshop context built in. When Claude Code opens inside it, it already knows what today is about and how to help you.
-
-Run these one at a time:
-
-```
-git clone https://github.com/arc-web/stellarph-claude-workshop.git
-```
-
-```
-cd stellarph-claude-workshop
-```
-
----
-
-## Step 8 - Start Claude Code
-
-Now just type:
-
-```
-claude
-```
-
-Claude Code will start up. It will show you a welcome screen and walk you through anything it needs from there — just follow what it shows you on screen. It's designed to guide you through itself.
-
-When you see a `>` prompt, you're in and ready to go.
-
----
-
-## You're All Set
-
-Here's what you now have:
-
-- Claude in your browser (claude.ai)
-- Claude on your desktop (Claude Desktop app)
-- Claude Code in your terminal — the most powerful one, loaded with workshop context
-- Your pod's API key connected
-
-**Your first prompt to get started:**
-
-```
-I'm at the StellarPH Claude AI Workshop. Help me figure out what to build today.
-Ask me about my background, what problems I deal with at work, and what I'd love to automate or make easier.
-```
-
----
-
-## Useful Terminal Shortcuts
-
-| What you want to do | How to do it |
-|---------------------|-------------|
+| What you want to do | How |
+|---------------------|-----|
 | Stop what's running | `Ctrl + C` |
 | Clear the screen | Type `clear` then Enter |
 | Exit Claude Code | Type `/exit` then Enter |
 | Start Claude Code again | Type `claude` then Enter |
-| Go back a folder | Type `cd ..` then Enter |
-
----
-
-## Something Went Wrong?
-
-**"command not found: claude" after installing**
-Close your terminal, open a new one, and try `claude` again. If still broken, post in your Pod channel.
-
-**API key not working**
-Make sure you copied the whole key including `sk-ant-` at the start, with no spaces before or after.
-
-**Git not installed (clone step failed)**
-Download it from **https://git-scm.com/downloads** and run the setup again from Step 7.
-
-**Anything else**
-Post in your Pod channel on Discord. Someone's got you.
 
 ---
 
