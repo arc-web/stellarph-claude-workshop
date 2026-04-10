@@ -150,18 +150,42 @@
 
 <br/>
 
-## Your Pod's Repo
+## Pod Repos - How They Work
 
-Each pod has their own private workspace. Find yours, bookmark it, commit everything there.
+Each pod has their own GitHub repo. This is where your team's work lives for the day. Think of it like a shared folder that everyone on your pod can add to, and that the facilitators can open at presentation time.
 
-| Pod | Leader | Members | Repo | Discord |
-|-----|--------|---------|------|---------|
-| Pod A | Harsley Kent Lawas | Jayne Carly Cabardo, Jade Delovino, Guadalufe Carriaga, Chaz Grant Borromeo, Anita | [Pod A repo](https://github.com/arc-web/claudeconference-pod-a) | #pod-a |
-| Pod B | Luisa Abigail Go | Charles Ivan Ogalesco, Ivhan, Mark Anthony C. Gabieta, Romel P. Rigore, Arlette Bulnes Martin | [Pod B repo](https://github.com/arc-web/claudeconference-pod-b) | #pod-b |
-| Pod C | Pierce Borinaga | Lysander Uy, Divino Franco R. Aurellanl, Precious Grace D. Manucom, Arnold Nico G. Ome, Christian C. Barral | [Pod C repo](https://github.com/arc-web/claudeconference-pod-c) | #pod-c |
-| Pod D | Danilo Jr. B. Casim | Vilmore Villadolid, Rumejan Barbarona, Gabriel Martinez Portillo, Carl | [Pod D repo](https://github.com/arc-web/claudeconference-pod-d) | #pod-d |
-| Pod E | Cris Militante | Karen Pearl V. Pabilando, Kael, John Rowen C. Miano, Christian Joseph M. Delos Santos, Shannen Nazareno | [Pod E repo](https://github.com/arc-web/claudeconference-pod-e) | #pod-e |
-| Pod F | Hannah Athena Estrera | Rome Nicolas, Mark Jayson Agao, Michael Ian Rule, Earl Ceniza | [Pod F repo](https://github.com/arc-web/claudeconference-pod-f) | #pod-f |
+**Two repos. Two purposes:**
+
+| Repo | What it is | What to use it for |
+|------|-----------|-------------------|
+| **This repo** (stellarph-claude-workshop) | The workshop hub | Guides, prompts, setup help, tools - read-only reference |
+| **Your pod repo** (claudeconference-pod-X) | Your team's workspace | Everything you build, write, or create today |
+
+**How your pod repo works:**
+
+- Everything your pod builds goes here - code, notes, docs, anything
+- One person saves (commits) at a time - no two people writing the same file simultaneously
+- The simplest way to add something: click **Add file** on your repo page, paste or upload, click **Commit changes**
+- If you're using Claude Code, just tell it: *"save this to our pod repo"* and it will handle it
+- Your repo is your presentation - Pjotr will open each pod's repo at the end of the session
+
+**Your pod repo already has:**
+- `README.md` - your team roster and a space to describe what you're building
+- `notes.md` - structured notes template to fill in as you go (great for the presentation)
+- `CLAUDE.md` - context that primes Claude Code with your pod's info the moment you open it
+
+---
+
+### Find Your Pod
+
+| Pod | Leader | Members | Repo |
+|-----|--------|---------|------|
+| **Pod A** | Harsley Kent Lawas | Jayne Carly Cabardo, Jade Delovino, Guadalufe Carriaga, Chaz Grant Borromeo, Anita | [claudeconference-pod-a](https://github.com/arc-web/claudeconference-pod-a) |
+| **Pod B** | Luisa Abigail Go | Charles Ivan Ogalesco, Ivhan, Mark Anthony C. Gabieta, Romel P. Rigore, Arlette Bulnes Martin | [claudeconference-pod-b](https://github.com/arc-web/claudeconference-pod-b) |
+| **Pod C** | Pierce Borinaga | Lysander Uy, Divino Franco R. Aurellanl, Precious Grace D. Manucom, Arnold Nico G. Ome, Christian C. Barral | [claudeconference-pod-c](https://github.com/arc-web/claudeconference-pod-c) |
+| **Pod D** | Danilo Jr. B. Casim | Vilmore Villadolid, Rumejan Barbarona, Gabriel Martinez Portillo, Carl | [claudeconference-pod-d](https://github.com/arc-web/claudeconference-pod-d) |
+| **Pod E** | Cris Militante | Karen Pearl V. Pabilando, Kael, John Rowen C. Miano, Christian Joseph M. Delos Santos, Shannen Nazareno | [claudeconference-pod-e](https://github.com/arc-web/claudeconference-pod-e) |
+| **Pod F** | Hannah Athena Estrera | Rome Nicolas, Mark Jayson Agao, Michael Ian Rule, Earl Ceniza | [claudeconference-pod-f](https://github.com/arc-web/claudeconference-pod-f) |
 
 ---
 
