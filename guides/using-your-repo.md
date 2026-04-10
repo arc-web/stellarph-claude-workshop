@@ -27,6 +27,22 @@ That's it. Your whole pod can now see it.
 
 ---
 
+## First - Set Up Your Access Token (do this once)
+
+Before you can push anything, your machine needs permission to write to the repo. Your pod has a token for this - it's pinned in your pod's Discord channel and looks like `github_pat_...`.
+
+Once you have it, open a terminal inside your cloned repo folder and run this one command:
+
+```
+git remote set-url origin https://YOUR_TOKEN@github.com/arc-web/claudeconference-pod-X.git
+```
+
+Replace `YOUR_TOKEN` with the token from Discord, and `pod-X` with your pod letter (pod-a, pod-b, pod-c, or pod-d).
+
+You only do this once per machine. After that, pushing works - no password prompts, no errors.
+
+---
+
 ## If You're Using Claude Code
 
 Tell it what you want in plain English - it handles the git commands.
