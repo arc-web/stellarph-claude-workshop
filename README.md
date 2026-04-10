@@ -109,9 +109,13 @@
 | **Claude Code** | AI in your terminal - for building | [docs](https://docs.anthropic.com/en/docs/claude-code/overview) |
 | **GitHub** | Share and collaborate on your work | [github.com](https://github.com) |
 | **NotebookLM** | Turn your output into a presentation | [notebooklm.google.com](https://notebooklm.google.com) |
+| **AI Studio** | Google's free AI playground - experiment freely | [aistudio.google.com](https://aistudio.google.com) |
 | **ChatGPT** | Alternative AI, great for some tasks | [chatgpt.com](https://chatgpt.com) |
 | **Gemini** | Google's AI - strong on search + docs | [gemini.google.com](https://gemini.google.com) |
 | **Grok** | xAI's model - great for current events | [x.ai/grok](https://x.ai/grok) |
+| **Suno** | Type a description, get a full song back | [suno.com](https://suno.com) |
+
+**[Full tools guide with descriptions and decision help](guides/tools.md)**
 
 ---
 
@@ -135,7 +139,28 @@
 <td><a href="guides/github-basics.md"><strong>GitHub Basics</strong></a></td>
 <td>Repos, commits, sharing - the minimum you need today</td>
 </tr>
+<tr>
+<td align="center">🛠️</td>
+<td><a href="guides/tools.md"><strong>All Tools</strong></a></td>
+<td>Every tool for today with descriptions, links, and a decision guide</td>
+</tr>
 </table>
+
+---
+
+<br/>
+
+## Your Pod's Repo
+
+Each pod has their own private workspace. Find yours, bookmark it, commit everything there.
+
+| Pod | Repo | Discord Channel |
+|-----|------|----------------|
+| Pod A | [github.com/arc-web/stellarph-pod-a](https://github.com/arc-web/stellarph-pod-a) | #pod-a |
+| Pod B | [github.com/arc-web/stellarph-pod-b](https://github.com/arc-web/stellarph-pod-b) | #pod-b |
+| Pod C | [github.com/arc-web/stellarph-pod-c](https://github.com/arc-web/stellarph-pod-c) | #pod-c |
+| Pod D | [github.com/arc-web/stellarph-pod-d](https://github.com/arc-web/stellarph-pod-d) | #pod-d |
+| Pod E | [github.com/arc-web/stellarph-pod-e](https://github.com/arc-web/stellarph-pod-e) | #pod-e |
 
 ---
 
