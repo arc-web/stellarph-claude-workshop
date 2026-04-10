@@ -6,9 +6,9 @@ Your pod repo is a shared workspace - like a Google Drive folder but for everyth
 
 ## Two Directions
 
-**Pushing up** - you made something on your laptop, you want your pod to see it
+**Sending your work up** - you made something on your laptop, you want your pod to see it
 
-**Pulling down** - your teammate added something, you want it on your machine
+**Getting your teammate's work down** - your teammate added something, you want it on your machine
 
 ---
 
@@ -70,7 +70,7 @@ git push
 
 ## The One Rule - No Two People Edit the Same File at Once
 
-If two people edit the same file at the same time without syncing first, you get a conflict. For today, avoid it simply:
+If two people edit the same file at the same time without syncing first, GitHub won't know whose version to keep - and you'll have to untangle it manually. Avoid this simply:
 
 - **Divide files by person** - you own your file, they own theirs
 - **Or** one person is the designated committer for the pod - everyone passes their work to them and they push it up

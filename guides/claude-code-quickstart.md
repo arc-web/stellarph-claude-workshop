@@ -93,7 +93,7 @@ Claude will map out the approach before writing a single line of code. This save
 
 ## Tips for Today
 
-- **Be specific** - "build me a todo app" is worse than "build me a todo app in plain HTML with no dependencies that saves to localStorage"
+- **Be specific** - "build me a todo app" is worse than "build me a simple to-do list as a webpage that remembers your tasks even if you close the browser"
 - **Iterate** - don't expect perfection on the first prompt, push back and refine
 - **Ask why** - if Claude suggests something you don't understand, ask it to explain before moving on
 - **Use your pod** - share what's working with your group, someone always has the better prompt
