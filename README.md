@@ -33,6 +33,14 @@
 
 *No advanced coding required. Just be ready to build.*
 
+<br/>
+
+## NEW HERE? START WITH THIS
+
+[![Setup Guide](https://img.shields.io/badge/STEP_BY_STEP_SETUP_GUIDE-%E2%86%92-7B2FBE?style=for-the-badge)](SETUP.md)
+
+*Everything you need to install — Claude, Claude Code, and how to get started — in plain English.*
+
 </div>
 
 ---
