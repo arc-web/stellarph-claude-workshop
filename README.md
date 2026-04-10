@@ -39,7 +39,7 @@
 
 [![Setup Guide](https://img.shields.io/badge/STEP_BY_STEP_SETUP_GUIDE-%E2%86%92-7B2FBE?style=for-the-badge)](SETUP.md)
 
-*Everything you need to install — Claude, Claude Code, and how to get started — in plain English.*
+*Everything you need to install - Claude, Claude Code, and how to get started - in plain English.*
 
 </div>
 
@@ -52,19 +52,19 @@
 <table>
 <tr>
 <td width="50px" align="center">🚀</td>
-<td><strong>Start</strong> — Pjotr kicks things off</td>
+<td><strong>Start</strong> - Pjotr kicks things off</td>
 </tr>
 <tr>
 <td align="center">🔨</td>
-<td><strong>Build</strong> — You work in pods. Mike rotates to guide each group.</td>
+<td><strong>Build</strong> - You work in pods. Mike rotates to guide each group.</td>
 </tr>
 <tr>
 <td align="center">💡</td>
-<td><strong>Live Guidance</strong> — As questions come up, we pause and share with everyone</td>
+<td><strong>Live Guidance</strong> - As questions come up, we pause and share with everyone</td>
 </tr>
 <tr>
 <td align="center">🎤</td>
-<td><strong>Present</strong> — Each pod shows what they built</td>
+<td><strong>Present</strong> - Each pod shows what they built</td>
 </tr>
 </table>
 
@@ -76,9 +76,9 @@
 
 ## Before You Do Anything Else
 
-> **1.** Join the Discord: https://discord.gg/g2pJzjmV — find your Pod channel (A through E)
+> **1.** Join the Discord: https://discord.gg/g2pJzjmV - find your Pod channel (A through E)
 >
-> **2.** Get Claude: https://claude.ai — sign up if you haven't
+> **2.** Get Claude: https://claude.ai - sign up if you haven't
 >
 > **3.** Star this repo so you can find it again later
 
