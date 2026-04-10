@@ -1,102 +1,150 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/StellarPH-x-7B2FBE?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/KMC-Cebu_IT_Park-F5A623?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/April_10,_2026-Workshop-9B59B6?style=for-the-badge&logoColor=white" />
+<img src="assets/event-banner.png" alt="Claude AI Workshop - StellarPH x KMC" width="800" />
 
-# Claude AI Workshop
-### Stupid Problems. Smart Solutions.
+<br/>
 
-**Come with a problem. Leave with something that works.**
+<img src="assets/event-tagline.png" alt="The Stupid Problems You Run Into, and How AI Solves Them Better" width="800" />
 
-[![Discord](https://img.shields.io/badge/Join_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/g2pJzjmV)
+<br/>
+
+<img src="assets/facilitators.png" alt="Michael Ensor and Pjotr Steinmetz" width="800" />
+
+<br/><br/>
+
+![](https://img.shields.io/badge/%E2%9C%A8_It's_FREE-Limited_Slots_Only-7B2FBE?style=for-the-badge)
+![](https://img.shields.io/badge/April_10,_2026-1:00_PM_--_6:00_PM-9B59B6?style=for-the-badge)
+![](https://img.shields.io/badge/KMC_Skyrise_4A_%26_4B-Cebu_IT_Park-F5A623?style=for-the-badge)
+
+<br/>
+
+[![Discord](https://img.shields.io/badge/JOIN_THE_DISCORD-Updates,_Resources_%26_Support-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/g2pJzjmV)
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+### This repo is your one-stop reference for everything in today's session.
+**Guides. Prompts. Links. All in one place.**
+
+*No advanced coding required. Just be ready to build.*
 
 </div>
 
 ---
 
-## Welcome
+<br/>
 
-You made it. This repo is your single source of truth for today's workshop - guides, prompts, links, and everything the facilitators reference during the session.
+## How Today Works
 
-No advanced coding required. Just be ready to build.
+<table>
+<tr>
+<td width="50px" align="center">🚀</td>
+<td><strong>Start</strong> — Pjotr kicks things off</td>
+</tr>
+<tr>
+<td align="center">🔨</td>
+<td><strong>Build</strong> — You work in pods. Mike rotates to guide each group.</td>
+</tr>
+<tr>
+<td align="center">💡</td>
+<td><strong>Live Guidance</strong> — As questions come up, we pause and share with everyone</td>
+</tr>
+<tr>
+<td align="center">🎤</td>
+<td><strong>Present</strong> — Each pod shows what they built</td>
+</tr>
+</table>
 
-**Facilitators:** Michael Ensor & Pjotr Steinmetz
+**Location:** 16F, KMC Skyrise 4A & 4B Proworking Space, Cebu IT Park - **be there by 1 PM**
 
 ---
 
-## Today's Agenda
-
-| Time | What's Happening |
-|------|-----------------|
-| 1:00 PM | Pjotr kicks things off |
-| ~1:30 PM | Pod work begins - Mike rotates to guide each group |
-| Throughout | Live pauses to share insights as questions come up |
-| End | Each pod presents what they built |
-
-**Location:** 16F, KMC Skyrise 4A & 4B Proworking Space, Cebu IT Park
-
----
+<br/>
 
 ## Before You Do Anything Else
 
-1. **Join the Discord** - https://discord.gg/g2pJzjmV
-   - Find your Pod channel (A through E)
-   - Watch General for announcements and resources
-
-2. **Get Claude** - https://claude.ai (sign up if you haven't)
-
-3. **Star this repo** so you can find it again later
+> **1.** Join the Discord: https://discord.gg/g2pJzjmV — find your Pod channel (A through E)
+>
+> **2.** Get Claude: https://claude.ai — sign up if you haven't
+>
+> **3.** Star this repo so you can find it again later
 
 ---
+
+<br/>
 
 ## What You'll Learn Today
 
-- **Plan mode** - how to think with Claude before you build
-- **Pod collaboration** - dividing work inside your group using AI
-- **Build fast and iterate** - prompt, test, adjust, repeat
-- **GitHub for teams** - centralizing your work so everyone can access it
-- **NotebookLM for presentations** - turning your output into something shareable
-- **Multi-AI workflows** - when to use Claude vs ChatGPT vs Gemini vs Grok
+| | Topic | What it means |
+|---|-------|---------------|
+| 🧠 | **Plan Mode** | How to think with Claude before you build |
+| 🤝 | **Pod Collaboration** | Dividing work inside your group using AI |
+| ⚡ | **Build Fast & Iterate** | Prompt, test, adjust, repeat |
+| 🐙 | **GitHub for Teams** | Centralizing your work so everyone can access it |
+| 🎙️ | **NotebookLM** | Turning your output into something presentable |
+| 🔀 | **Multi-AI Workflows** | When to use Claude vs ChatGPT vs Gemini vs Grok |
 
 ---
+
+<br/>
 
 ## Tech Stack for Today
 
 | Tool | What it's for | Link |
-|------|--------------|------|
-| Claude (web/desktop) | Main AI - planning, writing, thinking | [claude.ai](https://claude.ai) |
-| Claude Code | AI in your terminal - for building | [docs.anthropic.com/claude-code](https://docs.anthropic.com/en/docs/claude-code/overview) |
-| GitHub | Share and collaborate on work | [github.com](https://github.com) |
-| NotebookLM | Turn your output into a presentation | [notebooklm.google.com](https://notebooklm.google.com) |
-| ChatGPT | Alternative AI, great for some tasks | [chatgpt.com](https://chatgpt.com) |
-| Gemini | Google's AI, strong on search + docs | [gemini.google.com](https://gemini.google.com) |
-| Grok | xAI's model, good for current events | [x.ai/grok](https://x.ai/grok) |
+|------|--------------|-------|
+| **Claude** (web/desktop) | Main AI - planning, writing, thinking | [claude.ai](https://claude.ai) |
+| **Claude Code** | AI in your terminal - for building | [docs](https://docs.anthropic.com/en/docs/claude-code/overview) |
+| **GitHub** | Share and collaborate on your work | [github.com](https://github.com) |
+| **NotebookLM** | Turn your output into a presentation | [notebooklm.google.com](https://notebooklm.google.com) |
+| **ChatGPT** | Alternative AI, great for some tasks | [chatgpt.com](https://chatgpt.com) |
+| **Gemini** | Google's AI - strong on search + docs | [gemini.google.com](https://gemini.google.com) |
+| **Grok** | xAI's model - great for current events | [x.ai/grok](https://x.ai/grok) |
 
 ---
+
+<br/>
 
 ## Guides in This Repo
 
-| Guide | What it covers |
-|-------|---------------|
-| [Claude Code Quickstart](guides/claude-code-quickstart.md) | Install, authenticate, first commands |
-| [Prompt Cheat Sheet](guides/prompt-cheatsheet.md) | Starter prompts and structures that work |
-| [GitHub Basics](guides/github-basics.md) | Repos, commits, sharing - the minimum you need |
+<table>
+<tr>
+<td width="40px" align="center">⚙️</td>
+<td><a href="guides/claude-code-quickstart.md"><strong>Claude Code Quickstart</strong></a></td>
+<td>Install, authenticate, first commands, plan mode, troubleshooting</td>
+</tr>
+<tr>
+<td align="center">💬</td>
+<td><a href="guides/prompt-cheatsheet.md"><strong>Prompt Cheat Sheet</strong></a></td>
+<td>Starter prompts and structures that actually work</td>
+</tr>
+<tr>
+<td align="center">🐙</td>
+<td><a href="guides/github-basics.md"><strong>GitHub Basics</strong></a></td>
+<td>Repos, commits, sharing - the minimum you need today</td>
+</tr>
+</table>
 
 ---
 
+<br/>
+
 ## Quick Prompt Starters
 
-Copy these and adjust for your problem:
+Copy these, adjust for your situation, go.
 
 ```
 You are helping me [goal]. Here is the context: [explain the situation].
-My constraints are: [time/tools/skills]. Start by asking me any clarifying questions before we begin.
+My constraints are: [time/tools/skills]. Start by asking me clarifying questions before we begin.
 ```
 
 ```
 I have a problem: [describe it]. Don't give me a solution yet.
-First, help me understand the root cause and the options I have.
+First help me understand the root cause and the options I have.
 ```
 
 ```
@@ -105,6 +153,8 @@ Tell me what's working, what's missing, and what to do next.
 ```
 
 ---
+
+<br/>
 
 ## Resources
 
@@ -115,43 +165,57 @@ Tell me what's working, what's missing, and what to do next.
 
 ---
 
+<br/>
+
 ## Follow the Organizers
 
-### Michael Ensor - Advertising Report Card
+<table>
+<tr>
+<td width="50%">
+
+### Michael Ensor
+#### Advertising Report Card
 
 Advertising analysis, AI-powered ad strategy, and media accountability.
 
 [![Website](https://img.shields.io/badge/Website-advertisingreportcard.com-7B2FBE?style=flat-square)](https://advertisingreportcard.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Advertising_Report_Card-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/advertising-report-card)
-[![Instagram](https://img.shields.io/badge/Instagram-@advertisingreportcard-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/advertisingreportcard/)
-[![Facebook](https://img.shields.io/badge/Facebook-AdvertisingReportCard-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/AdvertisingReportCard/)
-[![X](https://img.shields.io/badge/X-@AdReportCard-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/AdReportCard)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/advertising-report-card)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/advertisingreportcard/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/AdvertisingReportCard/)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/AdReportCard)
 
-### Michael's Community - Stackpack
+**Michael's Community:**
 
-AI, ads, and automation training. This is where the ongoing learning lives.
+[![Stackpack](https://img.shields.io/badge/Stackpack-AI,_Ads_%26_Automation_Training-F5A623?style=flat-square)](https://www.skool.com/stackpack)
 
-[![Stackpack](https://img.shields.io/badge/Join_Stackpack-skool.com/stackpack-F5A623?style=flat-square)](https://www.skool.com/stackpack)
+</td>
+<td width="50%">
 
----
-
-### Pjotr Steinmetz - StellarPH
+### Pjotr Steinmetz
+#### StellarPH
 
 Building the tech and startup community in the Philippines.
 
 [![Website](https://img.shields.io/badge/Website-stellarph.io-7B2FBE?style=flat-square)](https://stellarph.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-StellarPH-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://ph.linkedin.com/company/stellarph)
-[![Instagram](https://img.shields.io/badge/Instagram-@stellarph.io-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/stellarph.io/)
-[![Facebook](https://img.shields.io/badge/Facebook-stellarphio-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/stellarphio)
-[![X](https://img.shields.io/badge/X-@StellarPH-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/stellarph)
-[![Threads](https://img.shields.io/badge/Threads-@stellarph.io-000000?style=flat-square&logo=threads&logoColor=white)](https://www.threads.com/@stellarph.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://ph.linkedin.com/company/stellarph)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/stellarph.io/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/stellarphio)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/stellarph)
+[![Threads](https://img.shields.io/badge/Threads-000000?style=flat-square&logo=threads&logoColor=white)](https://www.threads.com/@stellarph.io)
+
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-Built with by StellarPH for the community
+<br/>
 
-*No pressure to be technical. Just real use. Real starting points.*
+![](https://img.shields.io/badge/StellarPH-x-7B2FBE?style=for-the-badge)
+![](https://img.shields.io/badge/KMC-Cebu_IT_Park-F5A623?style=for-the-badge)
+
+*Come with a problem. Leave with something that works.*
 
 </div>
