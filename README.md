@@ -115,6 +115,39 @@ Tell me what's working, what's missing, and what to do next.
 
 ---
 
+## Follow the Organizers
+
+### Michael Ensor - Advertising Report Card
+
+Advertising analysis, AI-powered ad strategy, and media accountability.
+
+[![Website](https://img.shields.io/badge/Website-advertisingreportcard.com-7B2FBE?style=flat-square)](https://advertisingreportcard.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Advertising_Report_Card-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/advertising-report-card)
+[![Instagram](https://img.shields.io/badge/Instagram-@advertisingreportcard-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/advertisingreportcard/)
+[![Facebook](https://img.shields.io/badge/Facebook-AdvertisingReportCard-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/AdvertisingReportCard/)
+[![X](https://img.shields.io/badge/X-@AdReportCard-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/AdReportCard)
+
+### Michael's Community - Stackpack
+
+AI, ads, and automation training. This is where the ongoing learning lives.
+
+[![Stackpack](https://img.shields.io/badge/Join_Stackpack-skool.com/stackpack-F5A623?style=flat-square)](https://www.skool.com/stackpack)
+
+---
+
+### Pjotr Steinmetz - StellarPH
+
+Building the tech and startup community in the Philippines.
+
+[![Website](https://img.shields.io/badge/Website-stellarph.io-7B2FBE?style=flat-square)](https://stellarph.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-StellarPH-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://ph.linkedin.com/company/stellarph)
+[![Instagram](https://img.shields.io/badge/Instagram-@stellarph.io-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/stellarph.io/)
+[![Facebook](https://img.shields.io/badge/Facebook-stellarphio-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/stellarphio)
+[![X](https://img.shields.io/badge/X-@StellarPH-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/stellarph)
+[![Threads](https://img.shields.io/badge/Threads-@stellarph.io-000000?style=flat-square&logo=threads&logoColor=white)](https://www.threads.com/@stellarph.io)
+
+---
+
 <div align="center">
 
 Built with by StellarPH for the community
