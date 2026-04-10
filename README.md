@@ -202,6 +202,85 @@ Each pod has their own GitHub repo. This is where your team's work lives for the
 
 ---
 
+## What Each Pod Built
+
+*Updated live during the session - April 10, 2026*
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Pod A - TindaCheck
+**Grocery Price Comparison App**
+
+[![Live](https://img.shields.io/badge/LIVE-View_App-22C55E?style=for-the-badge)](https://arc-web.github.io/claudeconference-pod-a/)
+[![Repo](https://img.shields.io/badge/Repo-claudeconference--pod--a-7B2FBE?style=for-the-badge&logo=github)](https://github.com/arc-web/claudeconference-pod-a)
+
+**The problem:** Comparing grocery prices across stores is slow and manual - shoppers can't tell at a glance whether they're getting a good deal when sizes and pack counts differ.
+
+**What they built:** A mobile-first web app where you scan a barcode or type a product name, add items to a list, and compare unit prices across different sizes and pack formats. Features a barcode scanner using the Open Food Facts API, size×packs formula for accurate unit pricing, dark/light mode, and a My List tab for side-by-side comparison.
+
+**Team:** Cris Militante (Leader), Kael, Carl Cabasag, Michael Ian Rule
+
+**Stack:** Single HTML file, Vanilla JS, Open Food Facts API
+
+</td>
+<td width="50%" valign="top">
+
+### Pod B - Sakay Na!
+**Cebu Jeepney Route Finder**
+
+[![Repo](https://img.shields.io/badge/Repo-claudeconference--pod--b-7B2FBE?style=for-the-badge&logo=github)](https://github.com/arc-web/claudeconference-pod-b)
+
+**The problem:** Getting around Cebu by jeepney is confusing for locals and visitors alike - there's no easy way to know which route to take from point A to point B.
+
+**What they built:** A route finder web app that lets you pick your origin and destination and surfaces the right jeepney routes to take. Built for Cebu commuters who navigate the city's jeepney network daily.
+
+**Team:** Pierce Borinaga (Leader), Rumejan Barbarona, Chris, Earl Ceniza
+
+**Stack:** React, Vite
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Pod C - FitAlarm
+**GPS Fitness Alarm App**
+
+[![Live](https://img.shields.io/badge/LIVE-View_App-22C55E?style=for-the-badge)](https://arc-web.github.io/claudeconference-pod-c/)
+[![Repo](https://img.shields.io/badge/Repo-claudeconference--pod--c-7B2FBE?style=for-the-badge&logo=github)](https://github.com/arc-web/claudeconference-pod-c)
+
+**The problem:** You tell yourself you'll go for a run tomorrow morning - but when the alarm goes off, you snooze it. There's nothing stopping you.
+
+**What they built:** A fitness alarm that you literally cannot ignore. Set your activity (run, walk, cycling, gym), your distance or time goal, and an alarm time. When it fires, it plays a looping siren that won't stop until you start moving. GPS tracks your real distance in real time. Auto-detects inactivity via DeviceMotion API and resumes the alarm if you stop. Includes a workout summary screen with pace, distance, and time.
+
+**Team:** Rome Nicolas (Leader), Ivhan, Guadalupe Carriaga
+
+**Stack:** Single HTML file, Vanilla JS, GPS/DeviceMotion APIs
+
+</td>
+<td width="50%" valign="top">
+
+### Pod D - GiftMaster
+**Relationship Intelligence PWA**
+
+[![Repo](https://img.shields.io/badge/Repo-claudeconference--pod--d-7B2FBE?style=for-the-badge&logo=github)](https://github.com/arc-web/claudeconference-pod-d)
+
+**The problem:** People care about their relationships but forget important dates, struggle to pick the right gifts, and don't know how to consistently show thoughtfulness.
+
+**What they built:** A progressive web app that stores rich profiles of the people in your life - personality types, love languages, preferences, important dates - and proactively suggests gifts, affirmations, and meaningful gestures at the right moments. Includes Supabase auth, a persons API with notes and chat, an AI agent layer for gift research, and a full VPS backend with task queuing.
+
+**Team:** Hannah Athena Estrera (Leader), Charles Ivan Ogalesco, Jayne Carly Cabardo
+
+**Stack:** Next.js 14, React, Tailwind CSS, Supabase, Node/Express agent API, BullMQ, Redis, ZeroClaw
+
+</td>
+</tr>
+</table>
+
+---
+
 <br/>
 
 ## Quick Prompt Starters
