@@ -195,12 +195,10 @@ Each pod has their own GitHub repo. This is where your team's work lives for the
 
 | Pod | Leader | Members | Repo |
 |-----|--------|---------|------|
-| **Pod A** | Harsley Kent Lawas | Jayne Carly Cabardo, Jade Delovino, Guadalufe Carriaga, Chaz Grant Borromeo, Anita | [claudeconference-pod-a](https://github.com/arc-web/claudeconference-pod-a) |
-| **Pod B** | Luisa Abigail Go | Charles Ivan Ogalesco, Ivhan, Mark Anthony C. Gabieta, Romel P. Rigore, Arlette Bulnes Martin | [claudeconference-pod-b](https://github.com/arc-web/claudeconference-pod-b) |
-| **Pod C** | Pierce Borinaga | Lysander Uy, Divino Franco R. Aurellanl, Precious Grace D. Manucom, Arnold Nico G. Ome, Christian C. Barral | [claudeconference-pod-c](https://github.com/arc-web/claudeconference-pod-c) |
-| **Pod D** | Danilo Jr. B. Casim | Vilmore Villadolid, Rumejan Barbarona, Gabriel Martinez Portillo, Carl | [claudeconference-pod-d](https://github.com/arc-web/claudeconference-pod-d) |
-| **Pod E** | Cris Militante | Karen Pearl V. Pabilando, Kael, John Rowen C. Miano, Christian Joseph M. Delos Santos, Shannen Nazareno | [claudeconference-pod-e](https://github.com/arc-web/claudeconference-pod-e) |
-| **Pod F** | Hannah Athena Estrera | Rome Nicolas, Mark Jayson Agao, Michael Ian Rule, Earl Ceniza | [claudeconference-pod-f](https://github.com/arc-web/claudeconference-pod-f) |
+| **Pod A** | Cris Militante | Kael, Carl Cabasag, Michael Ian Rule | [claudeconference-pod-a](https://github.com/arc-web/claudeconference-pod-a) |
+| **Pod B** | Pierce Borinaga | Rumejan Barbarona, Chris, Earl Ceniza | [claudeconference-pod-b](https://github.com/arc-web/claudeconference-pod-b) |
+| **Pod C** | Rome Nicolas | Ivhan, Guadalupe Carriaga | [claudeconference-pod-c](https://github.com/arc-web/claudeconference-pod-c) |
+| **Pod D** | Hannah Athena Estrera | Charles Ivan Ogalesco, Jayne Carly Cabardo | [claudeconference-pod-d](https://github.com/arc-web/claudeconference-pod-d) |
 
 ---
 
