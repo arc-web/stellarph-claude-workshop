@@ -154,13 +154,14 @@
 
 Each pod has their own private workspace. Find yours, bookmark it, commit everything there.
 
-| Pod | Repo | Discord Channel |
-|-----|------|----------------|
-| Pod A | [github.com/arc-web/stellarph-pod-a](https://github.com/arc-web/stellarph-pod-a) | #pod-a |
-| Pod B | [github.com/arc-web/stellarph-pod-b](https://github.com/arc-web/stellarph-pod-b) | #pod-b |
-| Pod C | [github.com/arc-web/stellarph-pod-c](https://github.com/arc-web/stellarph-pod-c) | #pod-c |
-| Pod D | [github.com/arc-web/stellarph-pod-d](https://github.com/arc-web/stellarph-pod-d) | #pod-d |
-| Pod E | [github.com/arc-web/stellarph-pod-e](https://github.com/arc-web/stellarph-pod-e) | #pod-e |
+| Pod | Leader | Members | Repo | Discord |
+|-----|--------|---------|------|---------|
+| Pod A | Harsley Kent Lawas | Jayne Carly Cabardo, Jade Delovino, Guadalufe Carriaga, Chaz Grant Borromeo, Anita | [Pod A repo](https://github.com/arc-web/claudeconference-pod-a) | #pod-a |
+| Pod B | Luisa Abigail Go | Charles Ivan Ogalesco, Ivhan, Mark Anthony C. Gabieta, Romel P. Rigore, Arlette Bulnes Martin | [Pod B repo](https://github.com/arc-web/claudeconference-pod-b) | #pod-b |
+| Pod C | Pierce Borinaga | Lysander Uy, Divino Franco R. Aurellanl, Precious Grace D. Manucom, Arnold Nico G. Ome, Christian C. Barral | [Pod C repo](https://github.com/arc-web/claudeconference-pod-c) | #pod-c |
+| Pod D | Danilo Jr. B. Casim | Vilmore Villadolid, Rumejan Barbarona, Gabriel Martinez Portillo, Carl | [Pod D repo](https://github.com/arc-web/claudeconference-pod-d) | #pod-d |
+| Pod E | Cris Militante | Karen Pearl V. Pabilando, Kael, John Rowen C. Miano, Christian Joseph M. Delos Santos, Shannen Nazareno | [Pod E repo](https://github.com/arc-web/claudeconference-pod-e) | #pod-e |
+| Pod F | Hannah Athena Estrera | Rome Nicolas, Mark Jayson Agao, Michael Ian Rule, Earl Ceniza | [Pod F repo](https://github.com/arc-web/claudeconference-pod-f) | #pod-f |
 
 ---
 
