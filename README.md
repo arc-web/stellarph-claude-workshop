@@ -150,6 +150,11 @@
 <td>How to pick your problem, define it, divide the work, and structure your repo</td>
 </tr>
 <tr>
+<td align="center">🎤</td>
+<td><a href="guides/presentation-guide.md"><strong>Presentation Guide</strong></a></td>
+<td>Use NotebookLM to turn your repo into a pitch deck and video - step by step</td>
+</tr>
+<tr>
 <td align="center">📁</td>
 <td><a href="guides/using-your-repo.md"><strong>Using Your Repo</strong></a></td>
 <td>How to commit work, pull updates, and collaborate without stepping on each other</td>
