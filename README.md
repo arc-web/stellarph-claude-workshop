@@ -174,7 +174,7 @@ Each pod has their own GitHub repo. This is where your team's work lives for the
 | Repo | What it is | What to use it for |
 |------|-----------|-------------------|
 | **This repo** (stellarph-claude-workshop) | The workshop hub | Guides, prompts, setup help, tools - read-only reference |
-| **Your pod repo** (claudeconference-pod-X) | Your team's workspace | Everything you build, write, or create today |
+| **Your pod repo** (e.g. tindacheck, sakay-na) | Your team's workspace | Everything you build, write, or create today |
 
 **How your pod repo works:**
 
@@ -195,10 +195,10 @@ Each pod has their own GitHub repo. This is where your team's work lives for the
 
 | Pod | Leader | Members | Repo |
 |-----|--------|---------|------|
-| **Pod A** | Cris Militante | Kael, Carl Cabasag, Michael Ian Rule | [claudeconference-pod-a](https://github.com/arc-web/claudeconference-pod-a) |
-| **Pod B** | Pierce Borinaga | Rumejan Barbarona, Chris, Earl Ceniza | [claudeconference-pod-b](https://github.com/arc-web/claudeconference-pod-b) |
-| **Pod C** | Rome Nicolas | Ivhan, Guadalupe Carriaga | [claudeconference-pod-c](https://github.com/arc-web/claudeconference-pod-c) |
-| **Pod D** | Hannah Athena Estrera | Charles Ivan Ogalesco, Jayne Carly Cabardo | [claudeconference-pod-d](https://github.com/arc-web/claudeconference-pod-d) |
+| **Pod A** | Cris Militante | Kael, Carl Cabasag, Michael Ian Rule | [tindacheck](https://github.com/arc-web/tindacheck) |
+| **Pod B** | Pierce Borinaga | Rumejan Barbarona, Chris, Earl Ceniza | [sakay-na](https://github.com/arc-web/sakay-na) |
+| **Pod C** | Rome Nicolas | Ivhan, Guadalupe Carriaga | [fitalarm](https://github.com/arc-web/fitalarm) |
+| **Pod D** | Hannah Athena Estrera | Charles Ivan Ogalesco, Jayne Carly Cabardo | [giftmaster](https://github.com/arc-web/giftmaster) |
 
 ---
 
@@ -213,8 +213,8 @@ Each pod has their own GitHub repo. This is where your team's work lives for the
 ### Pod A - TindaCheck
 **Grocery Price Comparison App**
 
-[![Live](https://img.shields.io/badge/LIVE-View_App-22C55E?style=for-the-badge)](https://arc-web.github.io/claudeconference-pod-a/)
-[![Repo](https://img.shields.io/badge/Repo-claudeconference--pod--a-7B2FBE?style=for-the-badge&logo=github)](https://github.com/arc-web/claudeconference-pod-a)
+[![Live](https://img.shields.io/badge/LIVE-View_App-22C55E?style=for-the-badge)](https://arc-web.github.io/tindacheck/)
+[![Repo](https://img.shields.io/badge/Repo-tindacheck-7B2FBE?style=for-the-badge&logo=github)](https://github.com/arc-web/tindacheck)
 
 **The problem:** Comparing grocery prices across stores is slow and manual - shoppers can't tell at a glance whether they're getting a good deal when sizes and pack counts differ.
 
@@ -230,7 +230,7 @@ Each pod has their own GitHub repo. This is where your team's work lives for the
 ### Pod B - Sakay Na!
 **Cebu Jeepney Route Finder**
 
-[![Repo](https://img.shields.io/badge/Repo-claudeconference--pod--b-7B2FBE?style=for-the-badge&logo=github)](https://github.com/arc-web/claudeconference-pod-b)
+[![Repo](https://img.shields.io/badge/Repo-sakay--na-7B2FBE?style=for-the-badge&logo=github)](https://github.com/arc-web/sakay-na)
 
 **The problem:** Getting around Cebu by jeepney is confusing for locals and visitors alike - there's no easy way to know which route to take from point A to point B.
 
@@ -248,8 +248,8 @@ Each pod has their own GitHub repo. This is where your team's work lives for the
 ### Pod C - FitAlarm
 **GPS Fitness Alarm App**
 
-[![Live](https://img.shields.io/badge/LIVE-View_App-22C55E?style=for-the-badge)](https://arc-web.github.io/claudeconference-pod-c/)
-[![Repo](https://img.shields.io/badge/Repo-claudeconference--pod--c-7B2FBE?style=for-the-badge&logo=github)](https://github.com/arc-web/claudeconference-pod-c)
+[![Live](https://img.shields.io/badge/LIVE-View_App-22C55E?style=for-the-badge)](https://arc-web.github.io/fitalarm/)
+[![Repo](https://img.shields.io/badge/Repo-fitalarm-7B2FBE?style=for-the-badge&logo=github)](https://github.com/arc-web/fitalarm)
 
 **The problem:** You tell yourself you'll go for a run tomorrow morning - but when the alarm goes off, you snooze it. There's nothing stopping you.
 
@@ -265,7 +265,7 @@ Each pod has their own GitHub repo. This is where your team's work lives for the
 ### Pod D - GiftMaster
 **Relationship Intelligence PWA**
 
-[![Repo](https://img.shields.io/badge/Repo-claudeconference--pod--d-7B2FBE?style=for-the-badge&logo=github)](https://github.com/arc-web/claudeconference-pod-d)
+[![Repo](https://img.shields.io/badge/Repo-giftmaster-7B2FBE?style=for-the-badge&logo=github)](https://github.com/arc-web/giftmaster)
 
 **The problem:** People care about their relationships but forget important dates, struggle to pick the right gifts, and don't know how to consistently show thoughtfulness.
 
