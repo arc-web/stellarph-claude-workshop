@@ -1,5 +1,15 @@
 <div align="center">
 
+<a href="https://arc-web.github.io/stellarph-claude-workshop/">
+  <img src="https://img.shields.io/badge/🎬_Interactive_Presentation-View_Live-7B2FBE?style=for-the-badge&labelColor=0F0F1A&color=7B2FBE" alt="View Interactive Presentation" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
 <img src="assets/event-banner.png" alt="Claude AI Workshop - StellarPH x KMC" width="800" />
 
 <br/>
